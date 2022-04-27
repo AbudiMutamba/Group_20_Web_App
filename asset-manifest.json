@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Group_20_Web_App/static/css/main.3cfed6e3.css",
-    "main.js": "/Group_20_Web_App/static/js/main.445cf50b.js",
+    "main.js": "/Group_20_Web_App/static/js/main.106e4673.js",
     "static/js/594.cdddda5b.chunk.js": "/Group_20_Web_App/static/js/594.cdddda5b.chunk.js",
     "static/js/787.e63d0603.chunk.js": "/Group_20_Web_App/static/js/787.e63d0603.chunk.js",
     "static/media/weatherapp.png": "/Group_20_Web_App/static/media/weatherapp.6dc216154b41f1f9d461.png",
     "index.html": "/Group_20_Web_App/index.html",
     "main.3cfed6e3.css.map": "/Group_20_Web_App/static/css/main.3cfed6e3.css.map",
-    "main.445cf50b.js.map": "/Group_20_Web_App/static/js/main.445cf50b.js.map",
+    "main.106e4673.js.map": "/Group_20_Web_App/static/js/main.106e4673.js.map",
     "594.cdddda5b.chunk.js.map": "/Group_20_Web_App/static/js/594.cdddda5b.chunk.js.map",
     "787.e63d0603.chunk.js.map": "/Group_20_Web_App/static/js/787.e63d0603.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cfed6e3.css",
-    "static/js/main.445cf50b.js"
+    "static/js/main.106e4673.js"
   ]
 }
