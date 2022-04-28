@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Group_20_Web_App/static/css/main.3cfed6e3.css",
-    "main.js": "/Group_20_Web_App/static/js/main.85ee509a.js",
+    "main.css": "/Group_20_Web_App/static/css/main.212bc1b3.css",
+    "main.js": "/Group_20_Web_App/static/js/main.817ad508.js",
     "static/js/594.cdddda5b.chunk.js": "/Group_20_Web_App/static/js/594.cdddda5b.chunk.js",
     "static/js/787.e63d0603.chunk.js": "/Group_20_Web_App/static/js/787.e63d0603.chunk.js",
     "static/media/weatherapp.png": "/Group_20_Web_App/static/media/weatherapp.6dc216154b41f1f9d461.png",
     "index.html": "/Group_20_Web_App/index.html",
-    "main.3cfed6e3.css.map": "/Group_20_Web_App/static/css/main.3cfed6e3.css.map",
-    "main.85ee509a.js.map": "/Group_20_Web_App/static/js/main.85ee509a.js.map",
+    "main.212bc1b3.css.map": "/Group_20_Web_App/static/css/main.212bc1b3.css.map",
+    "main.817ad508.js.map": "/Group_20_Web_App/static/js/main.817ad508.js.map",
     "594.cdddda5b.chunk.js.map": "/Group_20_Web_App/static/js/594.cdddda5b.chunk.js.map",
     "787.e63d0603.chunk.js.map": "/Group_20_Web_App/static/js/787.e63d0603.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cfed6e3.css",
-    "static/js/main.85ee509a.js"
+    "static/css/main.212bc1b3.css",
+    "static/js/main.817ad508.js"
   ]
 }
